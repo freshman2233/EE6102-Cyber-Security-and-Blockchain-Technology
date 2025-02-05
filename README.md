@@ -1,5 +1,20 @@
 # EE6102 Cyber Security and Blockchain Technology
-# 1. **Course Aims**
+
+# 1.Introduction
+
+The rapid advancement of **Industry 4.0** has brought significant benefits to society but has also increased the risks of cyber threats. This course aims to equip students with essential knowledge and skills in **cyber security and blockchain technology**, which are crucial for securing digital infrastructures and transactions in the modern world.
+
+### What You’ll Find Here:
+
+- **Personal Solutions to Past Exams** – Step-by-step solutions to previous exam questions to aid your understanding and preparation.
+- **Lecture PPT Example References** – Detailed walkthroughs of key examples and exercises presented in lecture slides.
+- **Analysis of Challenging Topics** – In-depth explanations of complex concepts to help you navigate difficult areas with ease.
+
+If you find this repository useful, please consider **starring⭐ it on GitHub** to show your support!
+
+![Blockchain-Technology-in-Cybersecurity](./README.assets/Blockchain-Technology-in-Cybersecurity.png)
+
+# 2. **Course Outline**
 
 The **industry 4.0** offers massive benefits to society but also provides opportunities to cyber attackers. 
 
@@ -12,16 +27,6 @@ Thus, the aim of the second part of the course is to explain the basic concepts 
 This course is suitable for students studying MSc degree. Due to industry 4.0 and digital transformation, currently there is huge demands for jobs in this area and this demand will continue to increase as most industries will have to adopt industry 4.0 in order to remain competitive.
 
 
-
-# 2.**Intended Learning Outcomes (ILO)**
-
-1) Identify and explain modern cyber security threats landscape 
-2) Design robust cyber security policies and learn modern cyber security technologies 
-3) Learn skills and strategies to implement, manage, control, and govern cyber security at corporate and national level 
-
-4) Understand basic concepts and types of Blockchain Technology
-
-5) Appreciate and learn possible applications in several industries with use cases and case studies.
 
 # 3.**Course Content**
 
@@ -69,7 +74,13 @@ References:
 
 
 
-# 5.Content in Chinese
+# 5.Content
+
+## 5.1 English
+
+
+
+## 5.2 Chinese
 
 1.网络安全与攻击
 
@@ -239,9 +250,40 @@ References:
 
 2.2.4网络信息安全合规
 
+# 6.List of GitHub
 
+`````
+├─1.Exam
+│      .keep
+│      
+├─2.PPT Example
+│      1.2.2.3.1密码破解需要多长时间-1.pdf
+│      1.2.2.3.2密码破解需要多长时间-2.pdf
+│      1.2.2.6.4需要多少个包-1.pdf
+│      1.2.2.6.4需要多少个包-2.pdf
+│      1.2.2.6.4需要多少个包-3.pdf
+│      Sample Quiz1.pdf
+│      
+├─3.Understand
+│      .keep
+│      
+├─4.Resource
+│  ├─1.OUTLINE
+│  │      EE6102_OBTL (Abridge).pdf
+│  │      
+│  ├─2.Textbook
+│  │      Cryptography and Network Security Principles and Practice, Global Edition, 8th (William Stallings) (Z-Library).pdf
+│  │      
+│  └─3.References
+│          Advanced Cybersecurity Technologies (Ralph Moseley) (Z-Library).pdf
+│          Blockchain Technology From Theory to Practice (Sudeep Tanwar) (Z-Library).pdf
+│          
+└─README.assets
+        Blockchain-Technology-in-Cybersecurity.png
 
-# 6.Disclaimer
+`````
+
+# 7.Disclaimer
 
 All content in this  is based solely on the contributors' personal work, Internet data.
 All tips are for reference only and are not guaranteed to be 100% correct.
