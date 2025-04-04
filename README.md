@@ -1,5 +1,7 @@
 # EE6102 Cyber Security and Blockchain Technology
 
+[如果你是中文用户，请点击这里](./README_CN.md)
+
 # 1.Introduction
 
 The rapid advancement of **Industry 4.0** has brought significant benefits to society but has also increased the risks of cyber threats. This course aims to equip students with essential knowledge and skills in **cyber security and blockchain technology**, which are crucial for securing digital infrastructures and transactions in the modern world.
