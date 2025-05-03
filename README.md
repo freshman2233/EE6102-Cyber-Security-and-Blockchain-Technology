@@ -1,6 +1,6 @@
 # EE6102 Cyber Security and Blockchain Technology
 
-[如果你是中文用户，请点击这里](./README_CN.md)
+[中文](./README_CN.md)
 
 # 1.Introduction
 
