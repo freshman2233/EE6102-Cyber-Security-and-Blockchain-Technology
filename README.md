@@ -582,64 +582,119 @@ References:
 
 ## 7. Highlights
 
-1 Cybersecurity
-1.1 Status: 2 points
-1.2 Protective measures: 6 points
-1.3 Future
-1.4 Objectives: 6 points
-2 Cybersecurity Attacks and Security Threats
-2.1 Types of cyber attacks: 5 types
-2.1.1 Malware, viruses, worms and how to prevent virus attacks
-2.1.2 Ransomware attacks
-2.1.3 Man-in-the-middle attacks
-2.1.4 Denial of Service Attacks
-2.1.5 Basic Concepts of Denial of Service and Distributed Denial of Service (DDOS) Attacks 
+### 1 Cybersecurity
 
-2.1.6 Principles of SYN Flood Attacks and How to Implement Them
+1.1 Status: 2 points
+
+1.2 Protective measures: 6 points
+
+1.3 Future
+
+1.4 Objectives: 6 points
+
+### 2 Cybersecurity attacks and security threats
+
+2.1 Various types of cyber attacks: 5 types
+
+2.1.1 Malware, viruses, worms and how to protect against virus attacks
+
+2.1.2 Ransomware attacks
+
+2.1.3 Man-in-the-middle attacks
+
+2.1.4 Denial of Service Attacks
+
+2.1.5 Basic Concepts of Denial of Service and Distributed Denial of Service (DDOS) Attacks
+
+2.1.6 SYN Flood Attack Principles and Implementations
+
 2.1.7 Calculation: how much data is needed to launch a DOS attack
+
 2.1.8 What effect does packet size have?
+
 2.1.9 How does link speed affect the effectiveness of a DOS attack?
+
 2.1.10 DNS Flood Attacks
+
 2.2 Password Authentication Pros and Cons:2+3
+
 2.3 Cryptographic Computing
+
 2.4 Biological principles, advantages and disadvantages 3+2, replacing passwords
-3 Network Security Planning
+
+### 3 Cybersecurity planning
+
 3.1 Two dimensions of information security 2x3
-3.2 Security methods (bottom-up 1+2, top-down 4+0) 3.3 DLM four layers
+
+3.2 Security methods (bottom-up 1+2, top-down 4+0)
+
+3.3 Four layers of DLM
+
 3.3.1 High-level support
-3.3.2 Policy or Technology Failure
-3.3.3 Dual elements of building a secure system
-4 Cryptography
-4.1 Encryption techniques 2 types: concepts + advantages and disadvantages 4.2 Role of cipher lengths
+
+3.3.2 Policy or technology failure
+
+3.3.3 Dual Elements of Building a Secure System
+
+### 4 Cryptography
+
+4.1 Cryptography 2 types: concepts + advantages and disadvantages
+
+4.2 The role of password length
+
 4.3 Mixed-mode security schemes
+
 4.4 Hash algorithms
+
 4.4.1 Integrity
+
 4.4.2 Encryption vs. hashing, reverse hashing
+
 4.4.3 Hash in digital signature role
-5 Digital signatures and digital certificates
+
+### 5 Digital signatures and digital certificates
+
 5.1 RSA
-5.1.1 Algorithm principle, key generation, encryption and decryption, digital signature, authentication + non-repudiation 
+
+5.1.1 Algorithm principle, key generation, encryption and decryption, digital signature, authentication + non-repudiation
 
 5.1.2 Security
+
 5.1.3 Advantages and disadvantages
+
 5.1.4 Calculation problems
+
 5.2 ECC
+
 5.2.1 Advantages 2 points
-5.2.2 RSA and ECC future
+
+5.2.2 RSA and the future of ECC
+
 5.3 DH
+
 5.3.1 DH algorithm
+
 5.3.2 EDH
-6 Blockchain
+
+### 6 Blockchain
+
 6.1 Transactions, Ledgers, Nodes, Consensus, Contracts
+
 6.2 Satoshi Nakamoto's Motivation for Inventing Bitcoin
+
 6.3 Advantages, disadvantages and differences analysis of the three major cryptocurrencies
+
 6.4 Efficiency, Transparency, Trust
-6.5 Consensus Algorithms, POW, POS, Transparent Security Mechanisms 6.6 Data Rate Calculations
+
+6.5 Consensus Algorithms, POW, POS, Transparent Security Mechanisms
+
+6.6 Data Rate Calculation
+
 6.7 DeFi Advantages and Disadvantages, Risks, Future
+
 6.8 Smart Contracts in DeFi Role
+
 6.9 Blockchain Future Trends
-
-
 
 
 
