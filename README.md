@@ -584,17 +584,17 @@ References:
 
 ### 1 Cybersecurity
 
-1.1 Status: 2 points
+1.1 Status
 
-1.2 Protective measures: 6 points
+1.2 Protective measures
 
 1.3 Future
 
-1.4 Objectives: 6 points
+1.4 Objectives
 
 ### 2 Cybersecurity attacks and security threats
 
-2.1 Various types of cyber attacks: 5 types
+2.1 Various types of cyber attacks
 
 2.1.1 Malware, viruses, worms and how to protect against virus attacks
 
@@ -616,17 +616,17 @@ References:
 
 2.1.10 DNS Flood Attacks
 
-2.2 Password Authentication Pros and Cons:2+3
+2.2 Password Authentication Pros and Cons
 
 2.3 Cryptographic Computing
 
-2.4 Biological principles, advantages and disadvantages 3+2, replacing passwords
+2.4 Biological principles, advantages and disadvantages, replacing passwords
 
 ### 3 Cybersecurity planning
 
-3.1 Two dimensions of information security 2x3
+3.1 Two dimensions of information security
 
-3.2 Security methods (bottom-up 1+2, top-down 4+0)
+3.2 Security methods (bottom-up, top-down)
 
 3.3 Four layers of DLM
 
